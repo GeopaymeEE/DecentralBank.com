@@ -1,4 +1,4 @@
-DecentralBank.com
+GeopaymeBank.com
 =================
 
-DecentralBank website
+GeopaymeBank website
