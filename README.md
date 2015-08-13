@@ -1,4 +1,4 @@
-GeopaymeBank.com
+Geopay.me
 =================
 
-GeopaymeBank website
+Geopay.me website
