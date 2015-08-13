@@ -1,6 +1,6 @@
 Geopay.me
 =================
 
-Geopay.me Decentralized Bitcoin Purchases website
+Geopay.me Decentralize how you Buy Bitcoins website
 
-Eliminate Ex-changes and give the power to the Merchant.
+Eliminate Bitcoin Exchanges and decentralize the power to buy bitcoins.
